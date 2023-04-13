@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matteofrisoli1
 - 👀 I’m interested in web developmemt
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ReactJs Project
 - 📫 How to reach me ...
 
 <!---
