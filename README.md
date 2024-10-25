@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @matteofrisoli1
-- 👀 I’m interested in web developmemt
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ReactJs Project
-- 📫 How to reach me ...
+- 👀 I’m interested in Web developmemt & Mobile development 
+- 🌱 I’m currently learning Flutter & Dart
+- 💞️ I’m looking to collaborate on Flutter Project
 
 <!---
 matteofrisoli1/matteofrisoli1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
